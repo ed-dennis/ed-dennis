@@ -1,5 +1,6 @@
 
 -  👋 Hi, I’m Ed
+-  💻 I'm a Junior Software Engineer
 -  🎓 University of Warwick graduate
--  🌱 I’m currently learning JavaScript and Python
--  💻 I hope to work as a software developer one day
+-  🌱 I mainly work with JavaScript, Python and Scala 
+
